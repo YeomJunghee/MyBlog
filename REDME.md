@@ -1,1 +1,1 @@
-My Blog 프로젝트입니다.
+My Blog project
